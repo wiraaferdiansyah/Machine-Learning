@@ -20,5 +20,5 @@ We are developing a recommender system within the QFlare application. This syste
 1. Code Platform: Google Colab
 2. Programming Language: Python
 3. Library: Pandas, Tensorflow, numpy, matplotlib
-4. Datasets: from various UTBK Preparation books and Google [access here](https://drive.google.com/drive/folders/1AcEinBDjYzxP4g2nVyau5ZgWqzsK9o49)
+4. Datasets: from various UTBK Preparation books [access here](https://drive.google.com/drive/folders/1AcEinBDjYzxP4g2nVyau5ZgWqzsK9o49) and for the datasets used in EXP Predictios, we generate dummy data using Google Spreadsheets
 
