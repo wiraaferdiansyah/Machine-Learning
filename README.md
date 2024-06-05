@@ -11,7 +11,7 @@ We are developing a recommender system within the QFlare application. This syste
 | M004D4KX2589    | Ivana Lita                       | Institut Teknologi Sepuluh Nopember|
 
 ## ML Task
-1. Data Collection
+1. Data Collection and preprocessing
 2. Model Development
 3. Model Testing and Evaluation
 4. Convert model into HDF5
@@ -20,5 +20,5 @@ We are developing a recommender system within the QFlare application. This syste
 1. Code Platform: Google Colab
 2. Programming Language: Python
 3. Library: Pandas, Tensorflow, numpy, matplotlib
-4. Datasets: from various UTBK Preparations books and Google [access here](https://drive.google.com/drive/folders/1AcEinBDjYzxP4g2nVyau5ZgWqzsK9o49)
+4. Datasets: from various UTBK Preparation books and Google [access here](https://drive.google.com/drive/folders/1AcEinBDjYzxP4g2nVyau5ZgWqzsK9o49)
 
